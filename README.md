@@ -2,7 +2,7 @@
 
 This program allows you to detect the persons in the video you provide (input.mp4). But you need to have trained models for it. 
 
-For training models I've used (@ageitgey/face_recognition)[https://github.com/ageitgey/face_recognition] library. So, you need to install it first.
+For training models I've used [@ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) library. So, you need to install it first.
 
 
 ## Training
@@ -15,7 +15,7 @@ You can start training process with the command above.
 If there is a file called "data.sav" in the "trained" folder, "Data Update" process will start.
 
 
-#### In which cases "Data Update" process will start?
+### In which cases "Data Update" process will start?
 - Deleting the folder of a model.
 - Deleting a few or the whole images in a specific model folder.
 - Adding at least one new model folder.
