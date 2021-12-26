@@ -29,3 +29,12 @@ $ python .\detect.py
 ```
 
 With the command above, the program will be executed with **"input.mp4"** file. At the end of the detection process, it will give you a video file called **"output.avi"** which has rectangles and corresponding labels on the faces. 
+
+## Examples
+
+![1](https://raw.githubusercontent.com/ilyasbilgihan/face-recognition-from-videos/main/examples/1.png)
+![2](https://raw.githubusercontent.com/ilyasbilgihan/face-recognition-from-videos/main/examples/2.png)
+![3](https://raw.githubusercontent.com/ilyasbilgihan/face-recognition-from-videos/main/examples/3.png)
+![4](https://raw.githubusercontent.com/ilyasbilgihan/face-recognition-from-videos/main/examples/4.png)
+![5](https://raw.githubusercontent.com/ilyasbilgihan/face-recognition-from-videos/main/examples/5.png)
+![6](https://raw.githubusercontent.com/ilyasbilgihan/face-recognition-from-videos/main/examples/6.png)
