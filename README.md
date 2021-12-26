@@ -1,8 +1,8 @@
 # Face Recognition Example from Videos
 
-This program allows you to detect the persons in the video you provide (input.mp4). But you need to have trained models for it. 
+This program allows you to detect the persons in the video you provide (*input.mp4*). But you need to have trained models for it. 
 
-For training models I've used [@ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) library. So, you need to install it first.
+For training models I've used **[@ageitgey/face_recognition](https://github.com/ageitgey/face_recognition)** library. So, you need to install it first.
 
 
 ## Training
@@ -12,7 +12,7 @@ $ python .\train.py
 ```
 
 You can start training process with the command above.
-If there is a file called "data.sav" in the "trained" folder, "Data Update" process will start.
+If there is a file called **"data.sav"** in the "**trained"** folder, **"Data Update"** process will start.
 
 
 ### In which cases "Data Update" process will start?
@@ -28,4 +28,4 @@ If there is a file called "data.sav" in the "trained" folder, "Data Update" proc
 $ python .\detect.py
 ```
 
-With the command above, the program will be executed with "input.mp4" file. At the end of the detection process, it will give you a video file called "output.avi" which has rectangles and corresponding labels on the faces. 
+With the command above, the program will be executed with **"input.mp4"** file. At the end of the detection process, it will give you a video file called **"output.avi"** which has rectangles and corresponding labels on the faces. 
